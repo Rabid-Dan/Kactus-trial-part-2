@@ -14,13 +14,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3346.526974370549,
+    "height": 3354.526974370551,
     "width": 1545.559552076507,
-    "x": 468.6243312984566,
-    "y": -1856.526974370551
+    "x": 0.6243312984565819,
+    "y": 0.4730256294490118
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,7 +32,7 @@
       "id": "BBE382B3-319A-44EB-A98F-2057266DE6DD"
     }
   ],
-  "name": "Rectangle",
+  "name": "Mask",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,7 +51,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 2
       }
